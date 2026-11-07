@@ -32,7 +32,13 @@ cognifyz-business-analytics-internship/
 
 ## Tools used
 
-Python, pandas, NumPy, matplotlib, seaborn, SciPy, Jupyter (VS Code)
+>- Python 
+>- Pandas 
+>- NumPy 
+>- Matplotlib 
+>- Seaborn 
+>- SciPy 
+>- Jupyter (VS Code)
 
 ## How to run
 
